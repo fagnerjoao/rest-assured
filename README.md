@@ -5,6 +5,7 @@
 - JDK 8 ou superior
 - Eclipse IDE for Java Developers
 - Configurar as variáveis de ambiente (ex: JAVA_HOME) de acordo com SO
+- Postman
 
 
 # Setup Prjeto (MAven dependencies)
@@ -30,7 +31,7 @@ Cenário 5: Validar Atualizacao de Publicacao            | @cenario5
 - A execução pode ser feita por meio da suite de testes 'Runner.java'
 
 # Obs.:
-- Junto ao projeto há um arquivo 'JSONPlaceholder.postman_collection' com os teste que realizei manualmente
+- Junto ao projeto há um arquivo 'JSONPlaceholder.postman_collection' com os testes que realizei manualmente
 
 # Resources
 ##### [Rest Assured](https://rest-assured.io)
