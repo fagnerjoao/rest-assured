@@ -15,11 +15,11 @@
 # Cenários Front-end
 Nome Cenário                                            |   Tag
 --------------------------------------------------------| ---------
-Cenário 1: Consultar Todos os Usuario                   | cenario_1
-Cenário 2: Validar Cadastro de Usuario Sem Nome         | cenario_2
-Cenário 3: Validar Cadastro de Usuario                  | cenario_3
-Cenário 4: Validar Atualizacao de Cadastro de Usuario   | cenario_4
-Cenário 5: Validar Atualizacao de Publicacao            | cenario_5
+Cenário 1: Consultar Todos os Usuario                   | @cenario1
+Cenário 2: Validar Cadastro de Usuario Sem Nome         | @cenario2
+Cenário 3: Validar Cadastro de Usuario                  | @cenario3
+Cenário 4: Validar Atualizacao de Cadastro de Usuario   | @cenario4
+Cenário 5: Validar Atualizacao de Publicacao            | @cenario5
 
 * Os demais cenários estão em: /neon-rest-assured/src/main/resources/features
 
