@@ -13,7 +13,7 @@
 - junit 4.12 (https://mvnrepository.com/artifact/junit/junit/4.12)
 - gson 2.8.5 (https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.5)
 
-# Cenários Front-end
+# Cenários back-end
 Nome Cenário                                            |   Tag
 --------------------------------------------------------| ---------
 Cenário 1: Consultar Todos os Usuario                   | @cenario1
